@@ -1,5 +1,5 @@
 # social-computing-experiment
-This project was built to record the experiment implementation source code of my social computing course taught by Professor Tong Xu.
+This project was built to record the experiment implementation of my social computing course taught by Professor Tong Xu.
 
 ![](overview.png)
 
